@@ -22,6 +22,35 @@ I am passionate about Software Development, Web Development, and building real-w
 🛠️ Developer Tools: Git, GitHub, VS Code
 
 🎓 Academic Coursework: Data Structures, DBMS, OOP
+## 🚀 Skills & Technologies
+
+💻 **Programming Languages**
+- Python
+- Java
+- JavaScript
+
+🌐 **Web Technologies**
+- HTML
+- CSS
+- React.js
+
+📚 **Frameworks & Libraries**
+- Flask
+- React.js
+
+🗄️ **Databases**
+- MySQL
+- SQLite
+
+🛠️ **Developer Tools**
+- Git
+- GitHub
+- VS Code
+
+🎓 **Academic Coursework**
+- Data Structures
+- Database Management Systems (DBMS)
+- Object-Oriented Programming (OOP)
 
 # 🏆 Projects
 
