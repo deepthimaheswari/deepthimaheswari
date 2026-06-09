@@ -10,30 +10,30 @@ I am passionate about Software Development, Web Development, and building real-w
 
 ## 🚀 Skills & Technologies
 
-💻 **Programming Languages**
+###💻 **Programming Languages**
 - Python
 - Java
 - JavaScript
 
-🌐 **Web Technologies**
+###🌐 **Web Technologies**
 - HTML
 - CSS
 - React.js
 
-📚 **Frameworks & Libraries**
+###📚 **Frameworks & Libraries**
 - Flask
 - React.js
 
-🗄️ **Databases**
+###🗄️ **Databases**
 - MySQL
 - SQLite
 
-🛠️ **Developer Tools**
+###🛠️ **Developer Tools**
 - Git
 - GitHub
 - VS Code
 
-🎓 **Academic Coursework**
+###🎓 **Academic Coursework**
 - Data Structures
 - Database Management Systems (DBMS)
 - Object-Oriented Programming (OOP)
