@@ -38,27 +38,27 @@ I am passionate about Software Development, Web Development, and building real-w
 - Database Management Systems (DBMS)
 - Object-Oriented Programming (OOP)
 
-# 🏆 Projects
+## 🏆 Projects
 
-## Leave Management System
+### Leave Management System
 Developed a role-based leave management system using Python Flask and SQLite with admin approval workflow.
 
-## Weather App
+### Weather App
 Built a React.js weather application using OpenWeatherMap API with search functionality and dynamic updates.
 
-## Scam Call Classification System
+### Scam Call Classification System
 Developed a machine learning model using XGBoost, SVM, and Random Forest for scam call detection.
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
 - Web Development Internship – SkillDzire
 - Introduction to Internet of Things – NPTEL
 
 ---
 
-# 📫 Contact Me
+## 📫 Contact Me
 📧 Email: [udeepthi35@gmail.com](mailto:udeepthi35@gmail.com)
 🔗 LinkedIn: [Deepthi Maheswari](https://linkedin.com/in/deepthimaheswari)
 </div>
