@@ -29,14 +29,12 @@ I am passionate about Software Development, Web Development, and building real-w
 Developed a role-based leave management system using Python Flask and SQLite with admin approval workflow.
 </p>
 <a href="https://github.com/deepthimaheswari/Leave-Management-System">GitHub Repo</a>
-
 <br><br>
 <h3>🌦️ Weather App</h3>
 <p>
 Built a React.js weather application using OpenWeatherMap API with search functionality and dynamic updates.
 </p>
 <a href="https://github.com/deepthimaheswari/Weather-App">GitHub Repo</a>
-
 <br><br>
 <h3>📞 Scam Call Classification System</h3>
 <p>
