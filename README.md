@@ -26,23 +26,21 @@ I am passionate about Software Development, Web Development, and building real-w
 
 <h3>🏢 Leave Management System</h3>
 <p>
-A web-based application for managing employee leave requests, approvals, and tracking.
+Developed a role-based leave management system using Python Flask and SQLite with admin approval workflow.
 </p>
 <a href="https://github.com/deepthimaheswari/Leave-Management-System">GitHub Repo</a>
 
 <br><br>
-
 <h3>🌦️ Weather App</h3>
 <p>
-A weather application that displays real-time weather information using API integration.
+Built a React.js weather application using OpenWeatherMap API with search functionality and dynamic updates.
 </p>
 <a href="https://github.com/deepthimaheswari/Weather-App">GitHub Repo</a>
 
 <br><br>
-
 <h3>📞 Scam Call Classification System</h3>
 <p>
-A machine learning project that classifies and identifies potential scam calls.
+Developed a machine learning model using XGBoost, SVM, and Random Forest for scam call detection.
 </p>
 <a href="https://github.com/deepthimaheswari/Scam-Call-Classification-System">GitHub Repo</a>
 ---
