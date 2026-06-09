@@ -10,12 +10,14 @@ I am passionate about Software Development, Web Development, and building real-w
 
 ## 🚀 Skills & Technologies
 
-  -💻 Programming Languages: Python, Java, JavaScript
-  -🌐 Frontend Development: HTML5, CSS3, React.js
-  -🗄️ Databases: MySQL, SQLite
-  -🛠️ Developer Tools: Git, GitHub, VS Code
-  -🎓 Relevant Coursework: Data Structures & Algorithms, Database Management Systems (DBMS), Object-Oriented Programming (OOP)
+  ## 💻 Technical Skills
 
+- 💻 Programming Languages: Python, Java, JavaScript
+- 🌐 Frontend Development: HTML5, CSS3, React.js
+- 📚 Frameworks & Libraries: Flask, React.js
+- 🗄️ Databases: MySQL, SQLite
+- 🛠️ Developer Tools: Git, GitHub, VS Code
+- 🎓 Relevant Coursework: Data Structures & Algorithms, Database Management Systems (DBMS), Object-Oriented Programming (OOP)
 ## 🏆 Projects
 
 ### Leave Management System
