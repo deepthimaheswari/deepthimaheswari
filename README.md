@@ -14,8 +14,6 @@ I am passionate about Software Development, Web Development, and building real-w
 
 🌐 HTML5, CSS3, React.js
 
-📚 Flask, React.js
-
 🗄️ MySQL, SQLite
 
 🛠️ Git, GitHub, VS Code
